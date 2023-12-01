@@ -14,4 +14,4 @@ Bienvenue dans le projet du Chronomètre Web, une application simple de chronom�
 - CSS
 - JavaScript
 
-[Résulta:](https://gery-guedegbe.github.io/Projet-Chronometre-JavaScript/)
+[Résulta:](https://gery-guedegbe.github.io/Projet-Chronometre-JavaScript/);
