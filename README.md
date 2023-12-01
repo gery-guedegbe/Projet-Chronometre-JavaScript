@@ -1,1 +1,1 @@
-# -Chronom-tre-en-JAVASCRIPT
+# -Chronometre-en-JAVASCRIPT
